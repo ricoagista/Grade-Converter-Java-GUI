@@ -82,4 +82,3 @@ Nilai Huruf: B | Keterangan: Lulus
 Masukkan nilai (0 - 100): 90
 Nilai Huruf: A | Keterangan: Lulus
 ```
-kenapa harus prabowo jadi presiden
